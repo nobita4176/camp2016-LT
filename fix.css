@@ -1,0 +1,4 @@
+@charset 'utf-8';
+.reveal h1 {text-transform: unset;}
+.reveal .slides {width: 100vw !important;}
+.reveal section li:only-child img {margin-top: -30px !important;}
